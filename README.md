@@ -44,7 +44,7 @@
 
 ## Features
 
-Este aplicativo / site foi criado como um envio para um desafio [DevChallenges] (https://devchallenges.io/challenges). O [desafio] (https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) era construir uma pagina not found. Página esta utilizadas quando não se encontra o que procura. 
+Este aplicativo / site foi criado como um envio para um desafio [DevChallenges] (https://devchallenges.io/challenges). O [desafio] (https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) era construir uma pagina not found de acordo com o layout disponibilizado para o mesmo. 
 
 
 ## Contact
